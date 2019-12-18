@@ -1,0 +1,16 @@
+{
+  "name": "auto_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oomkar Pandit",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.0",
+    "mocha": "^6.2.2",
+    "mochawesome": "^4.1.0"
+  }
+}
